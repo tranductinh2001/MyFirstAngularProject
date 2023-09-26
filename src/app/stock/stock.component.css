@@ -1,0 +1,23 @@
+.stock-container1{
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    background-color: green;
+}    
+
+.stock-container2{
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    background-color: red;
+}    
+
+.positive{
+    color: white;
+}
+
+.negative{
+    color: white;
+}
